@@ -1,7 +1,6 @@
 # JavaEE常用框架整合
 这里写一个常用框架,以便日后使用时直接复用,而不是每次都要重新搭建一遍
 
-<hr style=" border:solid; width:100px; height:1px;" color=#000000 size=1">
 <br>
 
 ## 基础版
